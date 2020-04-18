@@ -1,5 +1,7 @@
 # React Template
 
+Aplicação react default para criação de novas aplicações, aproveite :)
+
 ## Pacotes pre instalados
 
 - axios: "^0.19.2",
