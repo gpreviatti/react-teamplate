@@ -1,7 +1,12 @@
 import React from 'react';
 
+import Button from '../components/Button';
+
 export default function Main() {
   return (
-    <h1>Hello World</h1>
+    <div>
+      <h1>Hello World</h1>
+      <Button title="Enviar" type="submit"/>
+    </div>
   );
 }
